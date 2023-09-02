@@ -7,7 +7,7 @@
 
 /* Style umum */
 body {
-    font-family: optima;
+    font-family: cursive;
     background-color: antiquewhite;
 }
 
@@ -56,6 +56,8 @@ img {
 p {
     font-size: 18px;
     line-height: 1.5;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 footer {
@@ -65,3 +67,4 @@ footer {
     color: #fff;
     border-radius: 0 0 5px 5px;
 }
+
